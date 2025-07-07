@@ -1,2 +1,4 @@
 .DS_Store
 .obsidian
+config.bat
+node_modules
